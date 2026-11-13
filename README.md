@@ -20,9 +20,11 @@ Extract the ZIP and run `Previewer.exe`. Every activation code is bound to one P
 3. Paste the machine code on the receipt page and copy the activation code.
 4. Paste the activation code into **Settings → License → Activate**.
 
-File previews run locally and work offline after activation. Moving to another PC
-needs a new code for that machine; contact [support@yuan-xin.top](mailto:support@yuan-xin.top)
-with your Creem receipt.
+File previews run locally and work offline after activation. The store emails the code
+to your purchase address; if you lose it, request a resend at
+<https://previewer.yuan-xin.top/retrieve> with your Creem order number. Moving to another
+PC needs a new code for that machine; contact
+[support@yuan-xin.top](mailto:support@yuan-xin.top) with your Creem receipt.
 
 The [Previewer store](https://previewer.yuan-xin.top/) is the purchase and activation
 code delivery site. Check the release notes for sales availability.
